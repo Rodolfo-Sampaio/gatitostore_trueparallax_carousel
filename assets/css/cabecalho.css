@@ -9,6 +9,9 @@
     letter-spacing: .25rem;
     border-bottom: 1px solid var(--rosa);
     box-sizing: border-box;
+
+    position: relative;
+    z-index: 1;
 }
 
 .cabecalho__divisao {
