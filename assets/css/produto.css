@@ -2,8 +2,6 @@
     display: flex;
 
     height: calc(100vh - 4.25rem);
-
-    overflow: hidden;
 }
 
 .produto__foto {
@@ -15,9 +13,7 @@
     background-position: center;
     background-repeat: no-repeat;
 
-    transform: translateZ(-1px) translate(-75%, 25%) scale(2.6);
-
-    z-index: -1;
+    transform: translateZ(-3.2px) translate(-750%, -180%) scale(11.2);
 }
 
 .produto__descricao {
